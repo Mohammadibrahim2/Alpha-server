@@ -1,0 +1,51 @@
+[
+
+    {
+        "id":"1",
+        "name":"Calculus",
+        "summary":"Deals with the properties of derivatives and integrals of quantities",
+        "img":"https://i.ytimg.com/vi/VXa-xtRE2JQ/hqdefault.jpg"
+    },
+    {
+        "id":"2",
+        "name":"Algebra",
+        "summary":"Deals with number theory, geometry, and analysis. ",
+        "img":"https://willca-malone.weebly.com/uploads/1/3/4/1/134146482/edited/algebra-page-2.jpg?1601943165"
+    },
+    {
+        "id":"3",
+        "name":"Geometry",
+        "summary":" deals with shapes, angles, dimensions and sizes of things",
+        "img":"https://th.bing.com/th/id/R.4988866f44af2acf7cd00ff99fc42569?rik=pqjAM9D3bog7ag&pid=ImgRaw&r=0"
+    },
+    {
+        "id":"4",
+        "name":"Real Analysis",
+        "summary": "Analyses the behaviour of real numbers, sequences and series, and real functions.",
+        "img":"https://i.ytimg.com/vi/842rgQP_OgI/maxresdefault.jpg"
+    },
+    {
+        "id":"5",
+        "name":"Set Theory",
+        "summary":"Deals with the properties of well-defined collections of objects,",
+        "img":"https://th.bing.com/th/id/R.fef1e7092b9fcc58e4605a0aa542ff97?rik=I2ImtA4SUK2Tkw&riu=http%3a%2f%2fwww.isles-challenge.org%2fISLES2015%2fimgs%2fdice_pic_comp.png&ehk=ivo6%2fZrwd1CwdN9zosFNM2QNlTS%2bcg1R6Rhalg1XCkg%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":"6",
+        "name":"Trigonometry",
+        "summary":"Studies relationships between side lengths and angles of triangles",
+        "img":"https://i.ytimg.com/vi/exgZCoiMOJU/hqdefault.jpg"
+    },
+    {
+        "id":"7",
+        "name":"Vector Analysis",
+        "summary":"Used for understanding the core concepts of electromagnetic field theory.",
+        "img":"https://i.pinimg.com/originals/2f/2e/bf/2f2ebf839bd1cacad38f1b605dd3931a.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Differential Equation ",
+        "summary":"Relates one or more unknown functions and their derivatives.",
+        "img":"https://static.skillshare.com/uploads/video/thumbnails/955db35795ecf355448a61cd63ec6be2/original"
+    }
+]
