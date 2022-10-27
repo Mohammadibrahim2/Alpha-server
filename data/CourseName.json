@@ -24,12 +24,7 @@
         "summary": "Analyses the behaviour of real numbers, sequences and series, and real functions.",
         "img":"https://i.ytimg.com/vi/842rgQP_OgI/maxresdefault.jpg"
     },
-    {
-        "id":"5",
-        "name":"Set Theory",
-        "summary":"Deals with the properties of well-defined collections of objects,",
-        "img":"https://th.bing.com/th/id/R.fef1e7092b9fcc58e4605a0aa542ff97?rik=I2ImtA4SUK2Tkw&riu=http%3a%2f%2fwww.isles-challenge.org%2fISLES2015%2fimgs%2fdice_pic_comp.png&ehk=ivo6%2fZrwd1CwdN9zosFNM2QNlTS%2bcg1R6Rhalg1XCkg%3d&risl=&pid=ImgRaw&r=0"
-    },
+    
     {
         "id":"6",
         "name":"Trigonometry",
@@ -41,11 +36,6 @@
         "name":"Vector Analysis",
         "summary":"Used for understanding the core concepts of electromagnetic field theory.",
         "img":"https://i.pinimg.com/originals/2f/2e/bf/2f2ebf839bd1cacad38f1b605dd3931a.jpg"
-    },
-    {
-        "id":"8",
-        "name":"Differential Equation ",
-        "summary":"Relates one or more unknown functions and their derivatives.",
-        "img":"https://static.skillshare.com/uploads/video/thumbnails/955db35795ecf355448a61cd63ec6be2/original"
     }
+   
 ]
