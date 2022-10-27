@@ -7,6 +7,7 @@ const courses=require("./data/CourseName.json");
 const CourseDetails=require("./data/CourseDetails.json")
 
 
+
 const port=process.env.PORT || 5000
 
 
@@ -19,6 +20,8 @@ app.get("/courseDetails/:id",(req,res)=>{
     const selectedCourse=CourseDetails.find(n=>n.id===id)
     res.send(selectedCourse)
 })
+
+
 app.listen(port,()=>{
     console.log(port)
 })

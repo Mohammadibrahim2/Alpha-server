@@ -6,8 +6,10 @@
     "details":"Calculus is a branch of mathematics that involves the study of rates of change. Before calculus was invented, all math was static: It could only help calculate objects that were perfectly still. But the universe is constantly moving and changing. No objects—from the stars in space to subatomic particles or cells in the body—are always at rest. Indeed, just about everything in the universe is constantly moving. Calculus helped to determine how particles, stars, and matter actually move and change in real time.",
     "img":"https://miro.medium.com/max/1400/0*B4u3Ot3ImnMhNKba.jpg",
     "subdetails":"Calculus was developed in the latter half of the 17th century by two mathematicians, Gottfried Leibniz and Isaac Newton. Newton first developed calculus and applied it directly to the understanding of physical systems. Independently, Leibniz developed the notations used in calculus. Put simply, while basic math uses operations such as plus, minus, times, and division (+, -, x, and ÷), calculus uses operations that employ functions and integrals to calculate rates of change.",
-    "catagories":["calculus is very usefull","calculus is very valo","calculus is khub kharap","calculus is midiam"]
+   "concepts":"Main concepts :",
+    "catagories":["Limits  ","Derivatives","continuity","Integral Calculus","Alpha Beta "]
 },
+
 {
     "id":"2",
     "tittle":"What Is Algebra and Why Is It Necessary?",
@@ -15,7 +17,8 @@
     "details":"Algebra is a branch of mathematics that substitutes letters for numbers, and an algebraic equation represents a scale where what is done on one side of the scale is also done to the other side of the scale and the numbers act as constants. Algebra can include real numbers, complex numbers, matrices, vectors, and many more forms of mathematic representation. The field of algebra can be further broken into basic concepts known as elementary algebra or the more abstract study of numbers and equations known as abstract algebra, where the former is used in most mathematics, science, economics, medicine, and engineering while the latter is mostly used only in advanced mathematics.",
     "img":"https://modo3.com/thumbs/fit630x300/245572/1633847893/%D9%85%D8%A7_%D9%87%D9%88_%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D8%A8%D8%B1_%D9%81%D9%8A_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA.jpg",
     "subdetails":"Why Algebra Matters Even if you don't think you'll need algebra outside of the hallowed halls of your average high school, managing budgets, paying bills, and even determining health care costs and planning for future investments will require a basic understanding of algebra.  Along with developing critical thinking, specifically logic, patterns, problem-solving, deductive and inductive reasoning, understanding the core concepts of algebra can help individuals better handle complex problems involving numbers, especially as they enter the workplace where real life scenarios of unknown variables related to expenses and profits require employees to use algebraic equations to determine the missing factors."
-     , "catagories":["calculus is very usefull","calculus is very valo","calculus is khub kharap","calculus is midiam"]
+     , "concepts":"Main concepts :",
+     "catagories":["Algebraic Expression","System of sequations","Linear Equations and Inequalities","Quadratics and polynomials"]
 }, 
     
 {
@@ -23,32 +26,41 @@
     "tittle":"Why Learn Geometry? Definition and Uses",
     "subtittle":"One of the oldest branches of mathematics",
     "details":"Simply put, geometry is a branch of mathematics that studies the size, shape, and position of 2-dimensional shapes and 3-dimensional figures. Although ancient Greek mathematician Euclid is typically considered the Father of Geometry the study of geometry arose independently in a number of early cultures.Geometry is a word derived from Greek. In Greek, geo means earth and metria  means measure.Geometry is in every part of a student's curriculum from kindergarten through 12th grade and continues through college and postgraduate study. Since most schools use a spiraling curriculum, introductory concepts are re-visited throughout the grades and advances in the level of difficulty as time goes on.",
-    "img":"https://cdn2.vectorstock.com/i/1000x1000/67/96/set-of-math-geometry-shapes-vector-22496796.jpg"
-    , "catagories":["calculus is very ","calculus is very valo","calculus is khub kharap","calculus is midiam"]
+    "img":"https://cdn2.vectorstock.com/i/1000x1000/67/96/set-of-math-geometry-shapes-vector-22496796.jpg",
+    "concepts":"Basic concepts :",
+    "catagories":["Euclidian Geometry","Non-euclidian Geometry","Analytic Geometry","Differential Geometry"]
+
+    
 },
+    
 {
     "id":"4",
     "tittle":"Introduction to real analysis",
     "subtittle":"Based on the properties of  real numbers and the ideas of sets, functions, and limits",
     "details":"Real Analysis is an enormous field with applications to many areas of mathematics. Roughly speaking, it has applications to any setting where one integrates functions, ranging from harmonic analysis on Euclidean space to partial differential equations on manifolds, from representation theory to number theory, from probability theory to integral geometry, from ergodic theory to quantum mechanics. As you can see, real analysis is a somewhat theoretical field that is closely related to mathematical concepts used in most branches of economics such as calculus and probability theory. ",
-    "img":"https://i.ytimg.com/vi/bmac3FU8RAQ/maxresdefault.jpg"
-    , "catagories":["calculus is very ","calculus is very valo","calculus is khub kharap","calculus is midiam"]
+    "img":"https://i.ytimg.com/vi/bmac3FU8RAQ/maxresdefault.jpg",
+    "concepts":"Main topics are :",
+    "catagories":["Real Number System","Sequence and Series","Convergence","Divergence","Reimann integral"]
+    
+    
 },
 {
     "id":"6",
     "tittle":"What Are Trigonometry Identities?",
     "subtittle":"The branch of math that focuses on triangles",
     "details":"Trigonometry, the branch of mathematics concerned with specific functions of angles and their application to calculations. There are six functions of an angle commonly used in trigonometry. Their names and abbreviations are sine (sin), cosine (cos), tangent (tan), cotangent (cot), secant (sec), and cosecant (csc).The word trigonometry comes from the Greek words trigonon (“triangle”) and metron (“to measure”). Until about the 16th century, trigonometry was chiefly concerned with computing the numerical values of the missing parts of a triangle (or any shape that can be dissected into triangles) when the values of other parts were given. ",
-    "img":"https://wallpaperaccess.com/full/4013576.jpg"
-     ,"catagories":["calculus is very usefull","calculus is very valo","calculus is khub kharap","calculus is midiam"]
+    "img":"https://wallpaperaccess.com/full/4013576.jpg",
+    "concepts":"Main concepts are :",
+     "catagories":["Trigonometric Functions","trigonometric Equations and Identities","Right triangles"]
 },
 {
     "id":"7",
     "tittle":"Introduction of vector analysis",
     "subtittle":"Concerned with differentiation and integration of vector fields",
     "details":"Vector calculus, or vector analysis, is concerned with differentiation and integration of vector fields, primarily in 3-dimensional Euclidean space . The term vector calculus is sometimes used as a synonym for the broader subject of multivariable calculus, which spans vector calculus as well as partial differentiation and multiple integration. Vector calculus plays an important role in differential geometry and in the study of partial differential equations. It is used extensively in physics and engineering, especially in the description of electromagnetic fields, gravitational fields, and fluid flow.",
-    "img":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Parallelogram_of_forces.png"
-   ,"catagories":["calculus is very usefull","calculus is very valo","calculus is khub kharap","calculus is midiam"]
+    "img":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Parallelogram_of_forces.png",
+    "concepts":"Main concepts :",
+   "catagories":["Vectors And scalars","Dot and Cross Product","Gradient,Divergence and curl","Curvilinear Coordinates","Tensor analysis"]
 }
 
 
