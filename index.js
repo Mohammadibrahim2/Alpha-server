@@ -9,9 +9,6 @@ const CourseDetails=require("./data/CourseDetails.json")
 
 const port=process.env.PORT || 5000
 
-app.get("/",(req,res)=>{
-    res.send("new math app")
-})
 
 app.get("/courses",(req,res)=>{
     res.send(courses)
